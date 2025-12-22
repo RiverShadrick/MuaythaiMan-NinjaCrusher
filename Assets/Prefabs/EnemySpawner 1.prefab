@@ -46,5 +46,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   NinjaPrefab: {fileID: 3338747987001320874, guid: 9c5f244e55a4ff54ea26396a7c01ffe1, type: 3}
   spawnInterval: 2
-  maxEnemies: 15
-  spawnRangeX: 1
+  maxEnemies: 10
