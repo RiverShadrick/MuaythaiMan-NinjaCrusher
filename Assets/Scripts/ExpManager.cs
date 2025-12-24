@@ -40,7 +40,8 @@ public class ExpManager : MonoBehaviour
 
     public void GainExprience(int amount)
     {
-      currentExp += amount;
+        Debug.Log("Gained " + amount + " EXP");
+        currentExp += amount;
       if (currentExp >= expToLevel)
         {
             LevelUp();

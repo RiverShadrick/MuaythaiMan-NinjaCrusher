@@ -13983,7 +13983,7 @@ AudioListener:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 927109527}
-  m_Enabled: 1
+  m_Enabled: 0
 --- !u!1 &940944961
 GameObject:
   m_ObjectHideFlags: 0
@@ -20976,7 +20976,6 @@ GameObject:
   - component: {fileID: 1800183829}
   - component: {fileID: 1800183830}
   - component: {fileID: 1800183832}
-  - component: {fileID: 1800183833}
   m_Layer: 3
   m_Name: Player
   m_TagString: Player
@@ -21191,18 +21190,6 @@ MonoBehaviour:
     m_Bits: 64
   cooldown: 0
   bloodPrefab: {fileID: 5193511254598423580, guid: d37f80dff49b1404eb6cffba602cf92e, type: 3}
---- !u!114 &1800183833
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1800183823}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 24d3e2897c2b9204daade659e474d5fa, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1805529356
 GameObject:
   m_ObjectHideFlags: 0
